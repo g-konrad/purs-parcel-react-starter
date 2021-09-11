@@ -1,5 +1,5 @@
 {
-  "name": "purs-parcel",
+  "name": "purs-parcel-react-starter",
   "version": "0.0.1",
   "scripts": {
     "postinstall": "spago install",
