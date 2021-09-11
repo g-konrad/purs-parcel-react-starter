@@ -7,7 +7,7 @@
     "clean:dist": "rm -rf dist/*",
     "spago:build": "spago build --purs-args '-o .output'",
     "spago:watch": "spago build --purs-args '-o .output' --watch",
-    "parcel:watch": "parcel assets/index-dev.html --open",
+    "parcel:watch": "parcel assets/index-dev.html",
     "bundle:build": "spago build --purs-args '--codegen corefn -o .output'",
     "bundle:dce": "zephyr -f Main.main -i .output -o .dce-output",
     "bundle:parcel": "parcel build assets/index.html --public-url '.' --no-source-maps",
