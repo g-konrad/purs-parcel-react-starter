@@ -14,4 +14,3 @@
 /.spago/
 /*.log
 /.parcel-cache/
-*.lock
