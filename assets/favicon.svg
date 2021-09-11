@@ -1,15 +1,61 @@
-<svg width="410" height="404" viewBox="0 0 410 404" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M399.641 59.5246L215.643 388.545C211.844 395.338 202.084 395.378 198.228 388.618L10.5817 59.5563C6.38087 52.1896 12.6802 43.2665 21.0281 44.7586L205.223 77.6824C206.398 77.8924 207.601 77.8904 208.776 77.6763L389.119 44.8058C397.439 43.2894 403.768 52.1434 399.641 59.5246Z" fill="url(#paint0_linear)"/>
-<path d="M292.965 1.5744L156.801 28.2552C154.563 28.6937 152.906 30.5903 152.771 32.8664L144.395 174.33C144.198 177.662 147.258 180.248 150.51 179.498L188.42 170.749C191.967 169.931 195.172 173.055 194.443 176.622L183.18 231.775C182.422 235.487 185.907 238.661 189.532 237.56L212.947 230.446C216.577 229.344 220.065 232.527 219.297 236.242L201.398 322.875C200.278 328.294 207.486 331.249 210.492 326.603L212.5 323.5L323.454 102.072C325.312 98.3645 322.108 94.137 318.036 94.9228L279.014 102.454C275.347 103.161 272.227 99.746 273.262 96.1583L298.731 7.86689C299.767 4.27314 296.636 0.855181 292.965 1.5744Z" fill="url(#paint1_linear)"/>
-<defs>
-<linearGradient id="paint0_linear" x1="6.00017" y1="32.9999" x2="235" y2="344" gradientUnits="userSpaceOnUse">
-<stop stop-color="#41D1FF"/>
-<stop offset="1" stop-color="#BD34FE"/>
-</linearGradient>
-<linearGradient id="paint1_linear" x1="194.651" y1="8.81818" x2="236.076" y2="292.989" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FFEA83"/>
-<stop offset="0.0833333" stop-color="#FFDD35"/>
-<stop offset="1" stop-color="#FFA800"/>
-</linearGradient>
-</defs>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 1024 1024" style="enable-background:new 0 0 1024 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#14161A;}
+	.st2{fill:#FFFFFF;}
+	.st3{display:inline;}
+	.st4{display:inline;opacity:0.1;fill:#FF0000;stroke:#FFFFFF;stroke-miterlimit:10;}
+</style>
+<g id="Dark">
+	<g id="Background" class="st0">
+		<rect class="st1" width="1024" height="1024"/>
+	</g>
+	<g id="Logo_Kopie">
+		<g>
+			<g>
+				<polygon class="st2" points="691.29,698.7 624.71,636.53 332.33,636.53 398.91,698.7     "/>
+				<polygon class="st2" points="398.91,480.75 332.33,542.92 624.71,542.92 691.29,480.75     "/>
+				<polygon class="st2" points="691.27,387.12 624.71,324.93 332.35,324.93 398.91,387.12     "/>
+				<path class="st2" d="M301.56,448.66l-43.98-43.99L94.49,567.73c-5.86,5.85-9.09,13.68-9.08,21.99c0,8.31,3.22,16.12,9.08,21.97      l163.08,163.08l43.98-43.97L160.47,589.73L301.56,448.66z"/>
+				<path class="st2" d="M929.13,411.95L766.1,248.85l-43.97,43.99l141.01,141.09L722.14,575.02l43.97,43.97l163.02-163.04      c5.88-5.9,9.12-13.72,9.12-22.03C938.22,425.6,935,417.81,929.13,411.95z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="LIght" class="st0">
+	<g id="Logo" class="st3">
+		<g>
+			<g>
+				<polygon points="691.29,698.7 624.71,636.53 332.33,636.53 398.91,698.7     "/>
+				<polygon points="398.91,480.75 332.33,542.92 624.71,542.92 691.29,480.75     "/>
+				<polygon points="691.27,387.12 624.71,324.93 332.35,324.93 398.91,387.12     "/>
+				<path d="M301.56,448.66l-43.98-43.99L94.49,567.73c-5.86,5.85-9.09,13.68-9.08,21.99c0,8.31,3.22,16.12,9.08,21.97      l163.08,163.08l43.98-43.97L160.47,589.73L301.56,448.66z"/>
+				<path d="M929.13,411.95L766.1,248.85l-43.97,43.99l141.01,141.09L722.14,575.02l43.97,43.97l163.02-163.04      c5.88-5.9,9.12-13.72,9.12-22.03C938.22,425.6,935,417.81,929.13,411.95z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Grid" class="st0">
+	<rect x="-0.34" y="-1" class="st4" width="170.72" height="1024"/>
+	<rect x="170.38" y="-1" class="st4" width="170.72" height="1024"/>
+	<rect x="341.11" y="-1" class="st4" width="170.72" height="1024"/>
+	<rect x="511.83" y="-1" class="st4" width="170.72" height="1024"/>
+	<rect x="682.55" y="-1" class="st4" width="170.72" height="1024"/>
+	<rect x="853.28" y="-1" class="st4" width="170.72" height="1024"/>
+	
+		<rect x="426.47" y="-427.81" transform="matrix(4.489812e-11 1 -1 4.489812e-11 596.0214 -427.6383)" class="st4" width="170.72" height="1024"/>
+	
+		<rect x="426.47" y="-257.09" transform="matrix(4.489279e-11 1 -1 4.489279e-11 766.7448 -256.9149)" class="st4" width="170.72" height="1024"/>
+	
+		<rect x="426.47" y="-86.36" transform="matrix(4.489812e-11 1 -1 4.489812e-11 937.4681 -86.1915)" class="st4" width="170.72" height="1024"/>
+	
+		<rect x="426.47" y="84.36" transform="matrix(4.489812e-11 1 -1 4.489812e-11 1108.1915 84.5319)" class="st4" width="170.72" height="1024"/>
+	
+		<rect x="426.47" y="255.09" transform="matrix(4.489279e-11 1 -1 4.489279e-11 1278.9149 255.2552)" class="st4" width="170.72" height="1024"/>
+	
+		<rect x="426.47" y="425.81" transform="matrix(4.489812e-11 1 -1 4.489812e-11 1449.6383 425.9786)" class="st4" width="170.72" height="1024"/>
+	<rect x="938.64" class="st4" width="85.36" height="1024"/>
+</g>
 </svg>
