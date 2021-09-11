@@ -1,1 +1,0 @@
-{"moduleName":["Data","Traversable","Accum"],"reExports":{},"imports":[{"annotation":{"meta":null,"sourceSpan":{"start":[1,1],"end":[5,44]}},"moduleName":["Prim"]}],"builtWith":"0.14.3","modulePath":".spago/foldable-traversable/v5.0.1/src/Data/Traversable/Accum.purs","exports":[],"decls":[],"comments":[],"foreign":[],"sourceSpan":{"start":[1,1],"end":[5,44]}}
