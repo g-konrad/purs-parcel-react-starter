@@ -1,0 +1,1 @@
+{"id":"lbfm","dependencies":[{"name":"/home/knrd/projects/purs/purs-parcel/package.json","includedInParent":true,"mtime":1631384761286}],"generated":{"js":"\"use strict\";exports.error=function(r){return new Error(r)},exports.throwException=function(r){return function(){throw r}};"},"sourceMaps":null,"error":null,"hash":"a66c260586c5e2ac6f6e4645f8b73f4c","cacheData":{"env":{}}}

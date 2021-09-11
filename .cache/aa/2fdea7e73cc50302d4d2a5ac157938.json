@@ -1,0 +1,1 @@
+{"id":"xdzy","dependencies":[{"name":"/home/knrd/projects/purs/purs-parcel/package.json","includedInParent":true,"mtime":1631384761286}],"generated":{"js":"\"use strict\";var t=function(t){this.map=t},n=function(t){return t.map};module.exports={Functor:t,map:n};"},"sourceMaps":null,"error":null,"hash":"e415bba1eabdb7629e74de4f4231b4be","cacheData":{"env":{}}}

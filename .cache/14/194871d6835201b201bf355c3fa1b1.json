@@ -1,0 +1,1 @@
+{"id":"NdfY","dependencies":[{"name":"/home/knrd/projects/purs/purs-parcel/package.json","includedInParent":true,"mtime":1631384761286}],"generated":{"js":"\"use strict\";exports.unsafePerformEffect=function(e){return e()};"},"sourceMaps":null,"error":null,"hash":"dde3a55392f85c978776b4190dae3798","cacheData":{"env":{}}}

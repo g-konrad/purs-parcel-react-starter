@@ -1,0 +1,1 @@
+{"id":"9HPs","dependencies":[{"name":"/home/knrd/projects/purs/purs-parcel/package.json","includedInParent":true,"mtime":1631384761286}],"generated":{"js":"\"use strict\";exports.document=function(t){return function(){return t.document}};"},"sourceMaps":null,"error":null,"hash":"fba6e8dccea5f323bc26ea1388b70e6a","cacheData":{"env":{}}}

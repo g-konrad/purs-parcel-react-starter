@@ -1,0 +1,31 @@
+{
+  "name": "purs-parcel",
+  "version": "0.0.1",
+  "scripts": {
+    "postinstall": "spago install",
+    "clean:all": "rm -rf node_modules output dce-output .spago dist/* *.lock .cache",
+    "clean:dist": "rm -rf dist/*",
+    "spago:build": "spago build",
+    "spago:watch": "spago build --watch",
+    "parcel:watch": "parcel index-dev.html --open",
+    "bundle:build": "spago build --purs-args '--codegen corefn'",
+    "bundle:dce": "zephyr -f Main.main",
+    "bundle:parcel": "parcel build index.html --no-source-maps",
+    "build": "run-s bundle:build bundle:dce bundle:parcel",
+    "serve": "http-server dist",
+    "dev": "run-p spago:watch parcel:watch",
+    "test": "spago test",
+    "preview": "run-s clean:dist build serve"
+  },
+  "devDependencies": {
+    "http-server": "^13.0.1",
+    "npm-run-all": "^4.1.5",
+    "parcel": "1.12.3",
+    "purescript-psa": "^0.8.2"
+  },
+  "dependencies": {
+    "preact": "^10.5.14",
+    "react": "npm:@preact/compat@^17.0.2",
+    "react-dom": "npm:@preact/compat@^17.0.2"
+  }
+}
