@@ -11,5 +11,5 @@ dist
 .spago
 *.log
 .parcel-cache
-.output
-.dce-output
+output
+dce-output
